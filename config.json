@@ -1,0 +1,27 @@
+{
+  "name": "ice-bob",
+  "repo": "ice-bob.github.io",
+  "client_id": "607a9876b731d00cacf9",
+  "client_secret": "3b0a34ab2be65f48a020ec60561b68043073e339",
+  "title": "Note of Ice-bob",
+  "instruction": "ice-bob的日常笔记",
+  "server_link": "http://119.23.8.25/gh-oauth-server.php",
+  "filter": {
+    "creator": "all",
+    "state": "open"
+  },
+  "menu": {
+    "首页": "./"
+  },
+  "friends": {
+    
+  },
+  "icons": {
+    "Github": {
+      "icon_src": "images/github.svg",
+      "href": "https://github.com/imuncle/gitblog",
+      "hidden_img": null,
+      "width": 0
+    }
+  }
+}
